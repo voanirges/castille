@@ -1,0 +1,1 @@
+﻿assumptions are that users have javascript and cookies enabled
